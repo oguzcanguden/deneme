@@ -1,6 +1,7 @@
 # node_modules folders
 **/node_modules/
 node_modules/
+**/public/
 
 # Extensions
 *.jpg
