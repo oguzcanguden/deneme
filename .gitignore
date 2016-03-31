@@ -1,1 +1,9 @@
-**/node_modules
+# node_modules folders
+**/node_modules/
+node_modules/
+
+# Extensions
+*.jpg
+*.jpeg
+*.png
+*.gif
